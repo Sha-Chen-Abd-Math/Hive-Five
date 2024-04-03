@@ -85,10 +85,16 @@ Alerts to be generated when:
 
 Swarming, Hive theft, Hive weight too low, Hive weight too high,Temperature too low, Low battery charge.
 
-We used an Arduino code per sensor. The sensor values ​​had to be sent to a connected cloud network.
+We used an Arduino code per sensor. The sensor values ​​had to be sent to a **connected cloud network.**
 
 ## The Things Network
 
 The Things Network (TTN) is a global decentralized network dedicated to the Internet of Things (IoT), utilizing LoRaWAN (Long Range Wide Area Network) technology. This network was created with the aim of providing an **open and free infrastructure for connecting IoT devices over long distances with minimal energy consumption** . All of these characteristics are ideal and align with our project.
 
+For the configuration of The Things Network, we did : 
+• The Creation of a DEVICE: AppKey, DevEUI, registration of our microcontroller MKRWAN 1310
+➢ The Configuration of the webhook
+• A webhook is a means by which a web application informs another web application in real time when a specific event occurs
+
+### For data transmission, we utilize the payload formatter
 
