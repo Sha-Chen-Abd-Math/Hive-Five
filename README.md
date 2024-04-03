@@ -44,6 +44,24 @@ Hardware Resources Used:
 
 ◼ Basic Components: Utilization of electronic components such as resistors, essential for building the embedded system.
 
+## Here is the list of components imposed by the project supervisors :
+
+- MKR WAN 1310: Microcontroller board, LoRaWAN compatible, low power consumption, optimized for IoT projects.
+
+- DHT22(x2): Environmental sensor providing precise measurement of temperature and humidity, with a wide operating range.
+
+- DS18B20(x2): Waterproof thermal sensor, perfect for accurate measurements, featuring one-wire digital communication.
+
+- HX711: Analog-to-digital converter for weight sensors, providing precise amplification and low power consumption.
+
+- H401-C3: Force sensor with high load capacity, specially designed for weight monitoring in a hive.
+
+- SOL3W: High-efficiency solar panel, resilient and durable, perfectly suited for commercial needs, promoting environmental sustainability.
+
+We are creating an Arduino code per sensor. The sensor values ​​will be sent to The Things Network
+
 We had to create an account on The Things Network.
 
 The Things Network (TTN) is a global decentralized network dedicated to the Internet of Things (IoT), utilizing LoRaWAN (Long Range Wide Area Network) technology. This network was created with the aim of providing an **open and free infrastructure for connecting IoT devices over long distances with minimal energy consumption** . All of these characteristics are ideal and align with our project.
+
+
