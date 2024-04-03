@@ -96,5 +96,18 @@ For the configuration of The Things Network, we did :
 ➢ The Configuration of the webhook
 • A webhook is a means by which a web application informs another web application in real time when a specific event occurs
 
-### For data transmission, we utilize the payload formatter
+### For data transmission, we required to work on the payload formatter
+
+The payload formatter takes the actual data that needs to be transmitted and structures it in a way that conforms to the requirements of the communication protocol being used. This ensures that the data can be correctly interpreted and processed by the receiving system or device.
+
+For data processing: it was necessary to know the type of data sent, then transform the information into readable data.
+
+
+
+
+
+
+
+
+
 
