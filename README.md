@@ -60,9 +60,26 @@ Hardware Resources Used:
 
 - SOL3W: High-efficiency solar panel, resilient and durable, perfectly suited for commercial needs, promoting environmental sustainability.
 
-We are creating an Arduino code per sensor. The sensor values ​​will be sent to The Things Network
+## For the project we had : 
+High Level of Requirement:
+❑ For hive weight: accuracy of 100 g, resolution of 10 g, with a range from 0 to 120 kg. Tare has been previously performed.
+❑ For internal hive temperature: accuracy of 0.5°C, resolution of 0.1°C, with a range from -10°C to 85°C. Cable length should be 1.5 m.
+❑ For battery status: expressed in percentage, with accuracy of 1% and resolution of 1%.
+❑ For humidity sensors inside the hive: accuracy of 2%, resolution of 0.1%, with a range from 0 to 100%.
 
-We had to create an account on The Things Network.
+Medium Level of Requirement:
+❖ For external hive temperature: accuracy of 0.5°C and resolution of 0.1°C.
+❖ For humidity outside the hive: accuracy of 2% and resolution of 1%.
+❖ Multiple temperature sensors inside the hive (maximum 3).
+❖ Measurement of external brightness expressed in lux.
+
+Alerts to be generated:
+Swarming, Hive theft, Hive weight too low, Hive weight too high,
+Temperature too low, Low battery charge.
+
+We used an Arduino code per sensor. The sensor values ​​had to be sent to a connected cloud network.
+
+## The Things Network
 
 The Things Network (TTN) is a global decentralized network dedicated to the Internet of Things (IoT), utilizing LoRaWAN (Long Range Wide Area Network) technology. This network was created with the aim of providing an **open and free infrastructure for connecting IoT devices over long distances with minimal energy consumption** . All of these characteristics are ideal and align with our project.
 
