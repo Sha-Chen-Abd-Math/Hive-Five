@@ -2,6 +2,8 @@
 
 # We will describe the implementation of our project on this GitHub.
 
+## Introduction
+
 Nowadays, the survival of 80% of flowering plants and the production of 35% of human food directly depend on pollinators.
 In the 1990s, 10% of bee colonies were disappearing each year. Today, between 20 to 80% of bee colonies are disappearing each year.
 
@@ -17,13 +19,13 @@ There are increasing threats to bees:
 
 - Increasing hive thefts in recent years for the honey business.
 
-Following these observations, we have decided to undertake a project : 
+## Following these observations, we have decided to undertake a project : 
 
 **Create a connected box that monitors the real-time status of a beehive. We check parameters such as temperature, humidity, and other metrics to determine if the hive is more or less productive.**
 
 The project aims to develop a comprehensive embedded system, integrating sensors, a microcontroller, a communication module, and the necessary electronics for power management. The main objective is to provide real-time monitoring of the hive to optimize bee health and honey production. 
 
-Our first sessions involved understanding the project context by defining the project boundaries : 
+## Our first sessions involved understanding the project context by defining the project boundaries : 
 
 For the Implementation: 
 
