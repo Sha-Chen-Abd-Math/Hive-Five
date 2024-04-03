@@ -1,4 +1,4 @@
-# Welcome to the Hive-Five wiki!
+# Welcome to the Hive-Five Project ! 
 
 ## We will describe the implementation of our project on this GitHub.
 
