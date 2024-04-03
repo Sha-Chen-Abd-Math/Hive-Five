@@ -1,8 +1,8 @@
 # Welcome to the Hive-Five wiki!
 
-# We will describe the implementation of our project on this GitHub.
+## We will describe the implementation of our project on this GitHub.
 
-## Introduction
+# Introduction
 
 Nowadays, the survival of 80% of flowering plants and the production of 35% of human food directly depend on pollinators.
 In the 1990s, 10% of bee colonies were disappearing each year. Today, between 20 to 80% of bee colonies are disappearing each year.
@@ -87,7 +87,7 @@ Swarming, Hive theft, Hive weight too low, Hive weight too high,Temperature too 
 
 We used an Arduino code per sensor. The sensor values ​​had to be sent to a **connected cloud network.**
 
-## The Things Network
+# The Things Network
 
 The Things Network (TTN) is a global decentralized network dedicated to the Internet of Things (IoT), utilizing LoRaWAN (Long Range Wide Area Network) technology. This network was created with the aim of providing an **open and free infrastructure for connecting IoT devices over long distances with minimal energy consumption** . All of these characteristics are ideal and align with our project.
 
@@ -105,6 +105,11 @@ For data processing: it was necessary to know the type of data sent, then transf
 ##image##
 
 So far, we spent time testing the sensors and sending their values to The Things Network. However, we had to send the data to another website so that beekeepers would have an interface with usable time graphs of the measured values
+
+# BEEP 
+
+The free BEEP app is a digital registration system for beekeepers and researchers. It provides a total overview of all apiaries and hives of a beekeeper.
+On this app, we had to create a section for each sensor. Through this app, we had to link the Things Network : 
 
 
 
