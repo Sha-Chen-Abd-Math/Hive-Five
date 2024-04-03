@@ -21,7 +21,7 @@ There are increasing threats to bees:
 
 ## Following these observations, we have decided to undertake a project : 
 
-**Create a connected box that monitors the real-time status of a beehive. We check parameters such as temperature, humidity, and other metrics to determine if the hive is more or less productive.**
+**Create a connected box that monitors the real-time status of a beehive for the beekeppers. It will check parameters such as temperature, humidity, and other metrics to determine if the hive is more or less productive.**
 
 The project aims to develop a comprehensive embedded system, integrating sensors, a microcontroller, a communication module, and the necessary electronics for power management. The main objective is to provide real-time monitoring of the hive to optimize bee health and honey production. 
 
@@ -102,7 +102,9 @@ The payload formatter takes the actual data that needs to be transmitted and str
 
 For data processing: it was necessary to know the type of data sent, then transform the information into readable data.
 
+##image##
 
+So far, we spent time testing the sensors and sending their values to The Things Network. However, we had to send the data to another website so that beekeepers would have an interface with usable time graphs of the measured values
 
 
 
