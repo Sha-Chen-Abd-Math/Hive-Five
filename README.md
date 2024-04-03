@@ -109,7 +109,13 @@ So far, we spent time testing the sensors and sending their values to The Things
 # BEEP 
 
 The free BEEP app is a digital registration system for beekeepers and researchers. It provides a total overview of all apiaries and hives of a beekeeper.
-On this app, we had to create a section for each sensor. Through this app, we had to link the Things Network : 
+On this app, we had to create a section for each sensor. Through this app, we had to link the Things Network.
+
+images
+
+
+
+# Printed Circuit Board (PCB)
 
 
 
