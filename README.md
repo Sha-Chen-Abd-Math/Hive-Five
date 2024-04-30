@@ -87,6 +87,10 @@ Swarming, Hive theft, Hive weight too low, Hive weight too high,Temperature too 
 
 We used an Arduino code per sensor. The sensor values ​​had to be sent to a **connected cloud network.**
 
+# Test and Measures
+
+We conducted tests on breadboard tables to assess the functionality of our sensors. These tests aimed to confirm both the efficacy of our sensor and the reliability of our Arduino code.
+
 # The Things Network
 
 The Things Network (TTN) is a global decentralized network dedicated to the Internet of Things (IoT), utilizing LoRaWAN (Long Range Wide Area Network) technology. This network was created with the aim of providing an **open and free infrastructure for connecting IoT devices over long distances with minimal energy consumption** . All of these characteristics are ideal and align with our project.
@@ -123,7 +127,7 @@ mdp : Sigfox21#
 
 # Printed Circuit Board (PCB)
 
-We created an implement circuit with Kicad. We had to define pins for each captors
+We created an implement circuit with Kicad. We had to define pins for each sensor.
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/551c4841-133a-4924-976b-e5e7ceffec43)
 
@@ -138,7 +142,7 @@ Here's the box where we have put our system :
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/22c4552a-447a-437d-98ed-ad92365349ff)
 
-You can also see where the captors were in our hive : 
+You can also see where the sensors were in our hive : 
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/956494a3-2550-4b88-9d87-ab47b3d976f6)
 
