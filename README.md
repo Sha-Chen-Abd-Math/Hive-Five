@@ -131,9 +131,13 @@ We were excited to install our system on the hive !
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/71f64e50-d992-4878-80ac-56c5e2dee301)
 
+Here's the box where we have put our system : 
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/22c4552a-447a-437d-98ed-ad92365349ff)
 
+You can also see where the captors were in our hive : 
+
+![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/956494a3-2550-4b88-9d87-ab47b3d976f6)
 
 
 
