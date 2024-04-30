@@ -102,7 +102,7 @@ The payload formatter takes the actual data that needs to be transmitted and str
 
 For data processing: it was necessary to know the type of data sent, then transform the information into readable data.
 
-##image##
+![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/5c2dad67-4753-40a6-b930-d7bde85753ef)
 
 So far, we spent time testing the sensors and sending their values to The Things Network. However, we had to send the data to another website so that beekeepers would have an interface with usable time graphs of the measured values
 
@@ -132,7 +132,7 @@ We were excited to install our system on the hive !
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/71f64e50-d992-4878-80ac-56c5e2dee301)
 
 
-
+![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/22c4552a-447a-437d-98ed-ad92365349ff)
 
 
 
