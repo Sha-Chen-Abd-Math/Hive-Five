@@ -129,6 +129,8 @@ mdp : Sigfox21#
 
 We created an implement circuit with Kicad. We had to define pins for each sensor.
 
+We also had to choose which type of pins for the grove. 
+
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/551c4841-133a-4924-976b-e5e7ceffec43)
 
 
@@ -147,6 +149,14 @@ You can also see where the sensors were in our hive :
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/956494a3-2550-4b88-9d87-ab47b3d976f6)
 
 
+
+# Aknowlegdements
+
+This project is a collaborative effort by students at Polytech Sorbonne : Chennafi Yassine, Shahidul Arnik, Mathlouti Amira, Abdul Saad.
+
+# Contact 
+
+For more information or inquiries, please contact us.
 
 
 
