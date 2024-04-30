@@ -123,9 +123,9 @@ mdp : Sigfox21#
 
 # Printed Circuit Board (PCB)
 
-We created an implement circuit
+We created an implement circuit with Kicad. We had to define pins for each captors
 
-![Uploading image.png…]()
+![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/551c4841-133a-4924-976b-e5e7ceffec43)
 
 
 # Deployment
