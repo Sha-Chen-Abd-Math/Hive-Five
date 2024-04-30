@@ -133,6 +133,7 @@ We also had to choose which type of pins for the grove.
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/551c4841-133a-4924-976b-e5e7ceffec43)
 
+# Consommation
 
 # Deployment
 
