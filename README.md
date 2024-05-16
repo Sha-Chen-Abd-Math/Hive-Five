@@ -110,21 +110,6 @@ For data processing: it was necessary to know the type of data sent, then transf
 
 So far, we spent time testing the sensors and sending their values to The Things Network. However, we had to send the data to another website so that beekeepers would have an interface with usable time graphs of the measured values
 
-# BEEP 
-
-The free BEEP app is a digital registration system for beekeepers and researchers. It provides a total overview of all apiaries and hives of a beekeeper.
-On this app, we had to create a section for each sensor. Through this app, we had to link the Things Network.
-
-You can see the data graphs of our implemented system by this link below : 
-
-https://app.beep.nl/
-
-login : or2021@yopmail.com
-mdp : Sigfox21#
-
-![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/59c1b8ae-c935-4eaf-8e40-8acc3aa8268c)
-
-
 # Printed Circuit Board (PCB)
 
 We created an implement circuit with Kicad. We had to define pins for each sensor.
@@ -155,7 +140,19 @@ You can also see where the sensors were in our hive :
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/956494a3-2550-4b88-9d87-ab47b3d976f6)
 
+# BEEP 
 
+The free BEEP app is a digital registration system for beekeepers and researchers. It provides a total overview of all apiaries and hives of a beekeeper.
+On this app, we had to create a section for each sensor. Through this app, we had to link the Things Network.
+
+You can see the data graphs of our implemented system by this link below : 
+
+https://app.beep.nl/
+
+login : or2021@yopmail.com
+mdp : Sigfox21#
+
+![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/59c1b8ae-c935-4eaf-8e40-8acc3aa8268c)
 
 # Aknowlegdements
 
