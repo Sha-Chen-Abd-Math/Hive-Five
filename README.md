@@ -135,11 +135,11 @@ We also had to choose which type of pins for the grove.
 
 # Consumption
 
-One of the most important aspect of our projet was the consumption. Most of the time, our system has to be on a low consumption mode. Here's how we measured how much current our system used. We connected  
+One of the key focuses of our project revolved around battery consumption. Our system predominantly operates in a low-power mode to ensure continuous battery functionality. To gauge the current draw of our system, we utilized a Looti Device. The precise current value at the moment of data transmission becomes inconsequential due to the brief interval, minimizing any impact on the battery autonomy.
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/9f39f355-9d08-4540-873b-16b1191c1af2)
 
-
+We can see the our consumption is about 1.7 mA.
 
 # Deployment
 
