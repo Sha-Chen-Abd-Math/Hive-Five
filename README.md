@@ -126,6 +126,10 @@ One of the key focuses of our project revolved around battery consumption. Our s
 
 We can see the our consumption is about 1.7 mA.
 
+# The embeded system
+
+Designing a casing to house our sensors and MKRwan board was a meticulous process that demanded considerable time and attention to detail. We had to meticulously consider cable lengths, cut and connect wires to the sensors, and create openings in the casing. Additionally, we had to ensure seamless integration with the Printed Circuit Board (PCB) by linking connectors. Ensuring the antenna's proper installation was also crucial to prevent degradation during deployment. This comprehensive approach ensured that our system was not only functional but also durable and reliable in real-world conditions.
+
 # Deployment
 
 We were excited to install our system on the hive ! 
