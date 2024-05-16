@@ -133,7 +133,13 @@ We also had to choose which type of pins for the grove.
 
 ![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/551c4841-133a-4924-976b-e5e7ceffec43)
 
-# Consommation
+# Consumption
+
+One of the most important aspect of our projet was the consumption. Most of the time, our system has to be on a low consumption mode. Here's how we measured how much current our system used. We connected  
+
+![image](https://github.com/Sha-Chen-Abd-Math/Hive-Five/assets/165886029/9f39f355-9d08-4540-873b-16b1191c1af2)
+
+
 
 # Deployment
 
